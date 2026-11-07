@@ -1,73 +1,73 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img alt="BBuilds — Engineering Studio. We design, build, and ship software that endures." src="assets/banner-light.svg" width="100%" />
-</picture>
+<img alt="BBuilds — Product Studio. Ideas in. Products out." src="assets/banner.svg" width="100%" />
 
-### The engineering studio for products that need to last.
+### Ideas in. Products out.
 
-**BBuilds** designs, builds, and ships web, mobile, and backend software for founders and ambitious teams — from the first sketch to production-grade reality.
+**BBuilds** is a one-team product studio for **zero-to-one software**. Strategy, design, and engineering under a single roof — you bring the raw idea, we hand back shipped software with real users.
 
-<a href="https://bbuilds.org"><img src="https://img.shields.io/badge/website-bbuilds.org-0D1117?style=for-the-badge&logo=googlechrome&logoColor=10B981&labelColor=0D1117" alt="Website — bbuilds.org" /></a>
-<a href="mailto:support@bbuilds.org"><img src="https://img.shields.io/badge/contact-support%40bbuilds.org-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0D1117" alt="Email — support@bbuilds.org" /></a>
-<img src="https://img.shields.io/badge/status-accepting%20new%20projects-0D1117?style=for-the-badge&logo=clockify&logoColor=10B981&labelColor=0D1117" alt="Status — accepting new projects" />
+<a href="https://bbuilds.org"><img src="https://img.shields.io/badge/website-bbuilds.org-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Website — bbuilds.org" /></a>
+<a href="mailto:hello@bbuilds.studio"><img src="https://img.shields.io/badge/contact-hello%40bbuilds.studio-000000?style=for-the-badge&logo=googlechat&logoColor=white&labelColor=000000" alt="Email — hello@bbuilds.studio" /></a>
+<img src="https://img.shields.io/badge/status-2%20slots%20·%20Q1%202027-000000?style=for-the-badge&logo=clockify&logoColor=white&labelColor=000000" alt="Availability — 2 slots, Q1 2027" />
+
+`ZERO TO ONE ✦ PRODUCT DESIGN ✦ FULL-STACK ENGINEERING ✦ AI FEATURES ✦ LAUNCH & GROWTH ✦ DESIGN SYSTEMS`
 
 </div>
 
 ---
 
-## What we build
+## ✦ What we do
+
+**Everything between idea and shipped.** One studio, the full stack of skills. Pick a slice, or hand us the whole thing and go back to running your company.
 
 | | |
 |:---|:---|
-| **Web Applications** | Fast, accessible products — from marketing sites to complex dashboards. |
-| **Mobile Apps** | Native-quality iOS and Android experiences from a single codebase. |
-| **APIs & Backends** | Scalable services, clean data models, and integrations that hold up. |
-| **Cloud & DevOps** | CI/CD, infrastructure, and observability — shipped with confidence. |
-| **UI Engineering** | Design systems and interfaces with polish down to the pixel. |
-| **Technical Strategy** | Architecture reviews, roadmaps, and build-vs-buy decisions. |
+| **Zero-to-One MVPs** | Scope cut to whatever proves the thesis, built and live in weeks. For founders who need signal from the market, not signal from a slide deck. |
+| **Product Design** | Research, flows, interfaces, and design systems with a point of view. Pretty is table stakes — usable is the actual product. |
+| **Web Engineering** | Next.js, TypeScript, Postgres — fast by default, boring to maintain, and ready for the traffic spike you're hoping for. |
+| **AI-Native Features** | Copilots, agents, and automations wired into real workflows — where LLMs earn their keep instead of just demoing well. |
+| **Launch & Growth** | Analytics, onboarding, and iteration loops wired in from day one, so a launch turns into traction instead of a tweet. |
+| **Studio Retainer** | An embedded senior product team on tap — strategy through shipped feature, with no hiring line and no handoff loss. |
 
-## How we work
+## ✦ How we ship
 
-1. **Discover** — understand the problem, the users, and the constraints before writing a line of code.
-2. **Design** — from wireframes to polished specs, agreed before engineering begins.
-3. **Build** — tight iterations, weekly demos, and code you can still read six months later.
-4. **Ship** — production releases with CI/CD, monitoring, and documentation.
-5. **Support** — we stay accountable after launch: maintain, measure, improve.
+**Five steps. No mystery.** The complexity stays in the codebase, not the calendar.
 
-## Core stack
+1. **Scope** — we interrogate the idea until only the essential survives. You get a build plan with real dates before we write a single line.
+2. **Design** — flows, screens, and a system — reviewed in the open and iterated daily. Nothing ships that's pretty only for pretty's sake.
+3. **Build** — a weekly shipping cadence. You watch the product grow in staging, not in progress meetings or slide decks.
+4. **Launch** — domain, deploy, analytics, onboarding — the unglamorous 10% that decides whether anyone actually uses the thing.
+5. **Iterate** — data in, updates out. The first launch buys the lesson; v2 is where the compounding starts.
 
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
-<a href="#"><img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
-<a href="#"><img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" /></a>
+## ✦ The studio in four lines
 
-## Public repositories
+1. **Ship or it didn't happen.**
+2. **Taste is a feature.**
+3. **Senior only. Small on purpose.**
+4. **Black and white: we say what we'll do, then do it.**
 
-> Public projects, open-source tooling, and our engineering handbook will appear here as they are ready to ship.
+## ✦ Receipts
 
-Selected client work is showcased at **[bbuilds.org](https://bbuilds.org)**.
+| `10+` | `4–8 wks` | `92%` | `0` |
+|:---:|:---:|:---:|:---:|
+| Products shipped | Idea → first launch | Clients come back | Vaporware delivered |
 
-## Work with us
+> "BBuilds is the rare studio that argues with you when you're wrong — and is right often enough that you listen. Our MVP shipped in six weeks. It now drives 80% of our revenue."
+> — **R. Menon**, Co-founder & CEO · Ledgerline
 
-Have a product to build? Tell us what you're making.
+## ✦ Start something
+
+Tell us what you're trying to ship. We reply within 48 hours — with actual thoughts, not a sales deck.
 
 | | |
 |:---|:---|
 | **Website** | [bbuilds.org](https://bbuilds.org) |
-| **Email** | [support@bbuilds.org](mailto:support@bbuilds.org) |
-| **Location** | India · remote-friendly |
+| **Email** | [hello@bbuilds.studio](mailto:hello@bbuilds.studio) |
+| **Availability** | 2 slots open · Q1 2027 |
+| **Working hours** | Remote-first · IST & PST overlap |
 
 ---
 
 <div align="center">
-<sub>© 2026 BBuilds · <a href="https://bbuilds.org">bbuilds.org</a></sub>
+<sub>© 2026 BBuilds Studio · <a href="https://bbuilds.org">bbuilds.org</a> · Built in black &amp; white. Zero gradients were harmed.</sub>
 </div>
