@@ -24,9 +24,9 @@
   <rect x="0.5" y="0.5" width="1279" height="319" fill="none" stroke="#FFFFFF" stroke-opacity="0.14"/>
 
   <!-- status pill -->
-  <rect x="90" y="48" width="524" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.16"/>
+  <rect x="90" y="48" width="652" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.16"/>
   <circle cx="112" cy="67" r="4.5" fill="#FFFFFF"/>
-  <text x="128" y="73" font-family="'Geist Mono', ui-monospace, 'SF Mono', Menlo, monospace" font-size="15" letter-spacing="3.5" fill="#B4B4B4">NOW BOOKING · Q1 2027 — 2 SLOTS LEFT</text>
+  <text x="128" y="73" font-family="'Geist Mono', ui-monospace, 'SF Mono', Menlo, monospace" font-size="15" letter-spacing="3.5" fill="#B4B4B4">Q3 2026 — 2 SLOTS OPEN · Q1 2027 — 5 SLOTS OPEN</text>
 
   <!-- hero -->
   <text x="86" y="190" font-family="'Geist', 'Inter', 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="94" font-weight="700" letter-spacing="-3" fill="#FFFFFF">Ideas in.</text>
